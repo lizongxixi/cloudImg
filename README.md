@@ -1,2 +1,0 @@
-# cloudImg
-cloud_Img
